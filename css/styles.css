@@ -1,0 +1,136 @@
+/* CSS INDEX.HTML */
+ul {
+   list-style-type: none;
+}
+.top {
+    background-color: #ffffff;
+}
+.main-nav {
+    display: flex;
+    align-items: center;
+}
+.logo-first {
+    color: #2196F3;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.logo-second {
+    color: #000000;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.site {
+    display: flex;
+}
+.site .item{
+    margin-right: 40px;
+}
+.site .item:last-child{
+    margin-right: 0;
+}
+.site-nav-actual {
+    margin-left: 70px;
+    display: block;
+    color: #2196F3;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.site-nav {
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display: block;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.site-nav:hover,
+.site-nav:focus{
+    color: #2196F3;
+}
+.link-adress{
+    margin-left: auto;
+}
+.link-adress .item {
+    display: block;
+    margin-right: 40px;
+   
+}
+.link {
+    color: #757575;   
+}
+.link:hover{
+    color: #2196F3;
+}
+.main {
+    color: #ffffff;
+    background-color: #2F303A;
+    text-align: center;
+}
+.main-hero {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+.preference {
+    background-color: #ffffff;
+   
+}
+.preference-title {
+   
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.preference-text {
+    color: #757575;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.works {
+    background-color: #ffffff;
+}
+.works-title {
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.team {
+    background-color: #F5F4FA;
+}
+.team-title {
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.bottom {
+    background-color: #2F303A;
+}
+.bottom-adress{
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.bottom-contacts{
+    color: #ffffff;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* PORTFOLIO.HTML */
